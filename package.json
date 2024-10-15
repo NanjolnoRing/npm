@@ -1,5 +1,5 @@
 {
-  "name": "nanjolnoring",
+  "name": "mercuryblog",
   "version": "1.1.5",
   "description": "nanjolnoring_blog",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nanjolnoring",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanjolnoRing/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NanjolnoRing/npm/issues"
+  },
+  "homepage": "https://github.com/NanjolnoRing/npm#readme"
 }
